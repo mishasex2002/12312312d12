@@ -1,0 +1,5 @@
+[2025-08-10 15:29:50] User id1996894803 was authorized as MAIN ADMIN
+[2025-08-10 15:29:50] Updating usernames is turn off
+[2025-08-10 15:29:50] Updating activity is turn off
+[2025-08-10 15:29:50] @leakosintos123_bot has been started
+==============================================================================
